@@ -1,0 +1,3 @@
+export const ApiRouteConstants= {
+    BASE_URL:"https://newsapi.org/v2/top-headlines"
+}
